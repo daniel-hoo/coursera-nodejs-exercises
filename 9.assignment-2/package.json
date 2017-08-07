@@ -1,0 +1,10 @@
+{
+  "name": "assignment-2",
+  "version": "0.0.0",
+  "description": "Implement the schemas and models of Dishes, Promotions and Leaders",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.11.5",
+    "mongoose-currency": "^0.2.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "node-mongodb",
+  "version": "0.0.0",
+  "description": "Node and MongoDB",
+  "license": "MIT",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "mongodb": "^2.2.30"
+  }
+}
